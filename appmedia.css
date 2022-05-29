@@ -1,0 +1,20 @@
+@media(max-width:375px)
+{
+.desktopbg
+ {
+display: none;
+ }
+.body
+{
+
+background-image: url('images/bg-mobile.png');
+
+}
+.middleleft
+ {
+     flex-direction: column;
+ }
+
+
+ 
+}
